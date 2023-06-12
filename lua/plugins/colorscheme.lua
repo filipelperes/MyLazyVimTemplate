@@ -1,9 +1,11 @@
 return {
-  { 'rebelot/kanagawa.nvim' },
-  { 'bluz71/vim-nightfly-colors' },
+  { "rebelot/kanagawa.nvim" },
+  { "bluz71/vim-nightfly-colors" },
   { "ellisonleao/gruvbox.nvim" },
+  { "tanvirtin/monokai.nvim" },
+  { "Mofiqul/dracula.nvim" },
   {
-    'dracula/vim',
+    "dracula/vim",
     lazy = false,
   },
   {
@@ -11,6 +13,12 @@ return {
     opts = {
       colorscheme = "catppuccin",
     },
+  },
+  {
+    "loctvl842/monokai-pro.nvim",
+    config = function()
+      require("monokai-pro").setup()
+    end,
   },
   {
     "catppuccin/nvim",
