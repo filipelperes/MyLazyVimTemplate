@@ -1,5 +1,11 @@
 return {
+  { 'rebelot/kanagawa.nvim' },
+  { 'bluz71/vim-nightfly-colors' },
   { "ellisonleao/gruvbox.nvim" },
+  {
+    'dracula/vim',
+    lazy = false,
+  },
   {
     "LazyVim/LazyVim",
     opts = {
