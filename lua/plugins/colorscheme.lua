@@ -4,15 +4,10 @@ return {
   { "ellisonleao/gruvbox.nvim" },
   { "tanvirtin/monokai.nvim" },
   { "Mofiqul/dracula.nvim" },
+  { "lunarvim/colorschemes" },
   {
     "dracula/vim",
     lazy = false,
-  },
-  {
-    "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "catppuccin",
-    },
   },
   {
     "loctvl842/monokai-pro.nvim",
