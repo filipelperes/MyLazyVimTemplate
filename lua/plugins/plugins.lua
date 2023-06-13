@@ -13,7 +13,6 @@ return {
 
 
   	'LunarVim/bigfile.nvim',
-  	'tzachar/cmp-tabnine',
   	'metakirby5/codi.vim',
   	'monaqa/dial.nvim',
 	'sindrets/diffview.nvim',
