@@ -19,7 +19,6 @@ return {
 	'ruifm/gitlinker.nvim',
 	'phaazon/hop.nvim',
 	'tamago324/lir.nvim',
-	'nvim-lua/plenary.nvim',
 	'dccsillag/magma-nvim',
 	'iamcco/markdown-preview.nvim',
 	'karb94/neoscroll.nvim',
