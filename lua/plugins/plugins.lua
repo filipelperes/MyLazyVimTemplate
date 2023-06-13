@@ -42,4 +42,5 @@ return {
 	'windwp/nvim-ts-autotag',
 	'nvim-telescope/telescope.nvim', 
 	'nvim-lua/plenary.nvim',
+	'hrsh7th/cmp-cmdline'
 }
