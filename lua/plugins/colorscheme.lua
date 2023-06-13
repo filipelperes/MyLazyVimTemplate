@@ -1,7 +1,6 @@
 return {
   { "shaunsingh/nord.nvim" },
   { "lunarvim/Onedarker.nvim" },
-  { "lunarvim/onedarker.nvim" },
   { "rebelot/kanagawa.nvim" },
   { "bluz71/vim-nightfly-colors" },
   { "ellisonleao/gruvbox.nvim" },
@@ -12,6 +11,7 @@ return {
   { "folke/lsp-colors.nvim" },
   { "rktjmp/lush.nvim" },
   { "navarasu/onedark.nvim" },
+  { 'Rigellute/shades-of-purple.vim' },
   {
     "norcalli/nvim-colorizer.lua",
       config = function()
