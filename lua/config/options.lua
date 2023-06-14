@@ -9,5 +9,6 @@ vim.opt.laststatus = 2
 vim.opt.autoread = true
 
 vim.cmd([[ set noswapfile ]])
+vim.cmd [[ au CmdWinEnter * quit ]]
 
 vim.wo.number = true

@@ -9,6 +9,7 @@ return {
   	-- rust babyyyyyyy
   	'mfussenegger/nvim-dap',
   	'rcarriga/nvim-dap-ui',
+  	'theHamsta/nvim-dap-virtual-text',
   	'simrat39/rust-tools.nvim',
 
 
@@ -32,7 +33,6 @@ return {
 	'folke/zen-mode.nvim',
 	'mattn/webapi-vim',
 	'andymass/vim-matchup',
-	'mattn/vim-gist',
 	'simrat39/symbols-outline.nvim',
 	'Tastyep/structlog.nvim',
 	'kevinhwang91/rnvimr',
@@ -41,5 +41,11 @@ return {
 	'windwp/nvim-ts-autotag',
 	'nvim-telescope/telescope.nvim', 
 	'nvim-lua/plenary.nvim',
-	'hrsh7th/cmp-cmdline'
+	'hrsh7th/cmp-cmdline',
+	'JoranHonig/tree-sitter-solidity',
+	'tomlion/vim-solidity',
+	'hrsh7th/nvim-cmp',
+	'nvim-neotest/neotest-plenary',
+	'folke/edgy.nvim',
+	'echasnovski/mini.hipatterns',
 }
