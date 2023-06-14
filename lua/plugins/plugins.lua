@@ -7,7 +7,6 @@ return {
   	'tpope/vim-commentary',
 
   	-- rust babyyyyyyy
-  	'mfussenegger/nvim-dap',
   	'rcarriga/nvim-dap-ui',
   	'theHamsta/nvim-dap-virtual-text',
   	'simrat39/rust-tools.nvim',
