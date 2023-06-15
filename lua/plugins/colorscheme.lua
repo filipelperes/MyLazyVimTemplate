@@ -16,7 +16,10 @@ return {
   { 'haishanh/night-owl.vim' },
   { 'olimorris/onedarkpro.nvim' },
   { 'joshdick/onedark.vim' },
-  { 'rainglow/vim' },
+  { 
+    'rainglow/vim',
+    name = "Rainglow"
+  },
   { 'liviuschera/noctis' },
   { 'cpea2506/one_monokai.nvim' },
   { 'fratajczak/one-monokai-vim' },
@@ -45,6 +48,7 @@ return {
   {
     "dracula/vim",
     lazy = false,
+    name = "Dracula from dracula"
   },
   {
     "loctvl842/monokai-pro.nvim",
