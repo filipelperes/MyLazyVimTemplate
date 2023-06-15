@@ -17,8 +17,7 @@ return {
   { 'olimorris/onedarkpro.nvim' },
   { 'joshdick/onedark.vim' },
   { 'rainglow/vim' },
-  { 'kartikp10/noctis.nvim' },
-  { 'talha-akram/noctis.nvim' },
+  { 'liviuschera/noctis' },
   { 'cpea2506/one_monokai.nvim' },
   { 'fratajczak/one-monokai-vim' },
   { 'johnpapa/vscode-winteriscoming' },
@@ -26,6 +25,9 @@ return {
   { 'projekt0n/github-nvim-theme' },
   { 'hzchirs/vim-material' },
   { 'kaicataldo/material.vim' },
+  { 'yonlu/omni.vim' },
+  { 'EdenEast/nightfox.nvim' },
+  { 'getomni/omni' },
   { 
     "norcalli/nvim-colorizer.lua",
       config = function()
