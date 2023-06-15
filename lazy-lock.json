@@ -137,6 +137,7 @@
   "vim-solidity": { "branch": "master", "commit": "569bbbedc3898236d5912fed0caf114936112ae4" },
   "vim-startuptime": { "branch": "master", "commit": "454b3de856b7bd298700de33d79774ca9b9e3875" },
   "vim-test": { "branch": "master", "commit": "08250c56f11cb3460c8a02c8fdb80c8d39c92173" },
+  "vscode-js-debug": { "branch": "main", "commit": "8fa24a71b84043a3c7065e4c64e1a9541ec518b2" },
   "vscode-winteriscoming": { "branch": "master", "commit": "c22b43550b453a109436597b346321ddd98535e3" },
   "webapi-vim": { "branch": "master", "commit": "70c49ada7827d3545a65cbdab04c5c89a3a8464e" },
   "which-key.nvim": { "branch": "main", "commit": "e271c28118998c93a14d189af3395812a1aa646c" },

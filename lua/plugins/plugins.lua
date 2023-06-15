@@ -47,4 +47,6 @@ return {
 	'nvim-neotest/neotest-plenary',
 	'folke/edgy.nvim',
 	'echasnovski/mini.hipatterns',
+
+	"microsoft/vscode-js-debug",
 }
