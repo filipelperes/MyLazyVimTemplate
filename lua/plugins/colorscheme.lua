@@ -12,7 +12,19 @@ return {
   { "rktjmp/lush.nvim" },
   { "navarasu/onedark.nvim" },
   { 'Rigellute/shades-of-purple.vim' },
-  {
+  { 'yeddaif/neovim-purple' },
+  { 'haishanh/night-owl.vim' },
+  { 'olimorris/onedarkpro.nvim' },
+  { 'joshdick/onedark.vim' },
+  { 'rainglow/vim' },
+  { 'kartikp10/noctis.nvim' },
+  { 'talha-akram/noctis.nvim' },
+  { 'cpea2506/one_monokai.nvim' },
+  { 'fratajczak/one-monokai-vim' },
+  { 'johnpapa/vscode-winteriscoming' },
+  { 'marko-cerovac/material.nvim' },
+  { 'projekt0n/github-nvim-theme' },
+  { 
     "norcalli/nvim-colorizer.lua",
       config = function()
         require("colorizer").setup({ "css", "scss", "html", "javascript" }, {
