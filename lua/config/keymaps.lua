@@ -84,6 +84,13 @@ local mappings = {
     r = { "<cmd>lua require('spectre').open()<cr>", "Replace" },
     w = { "<cmd>lua require('spectre').open_visual({select_word=true})<cr>", "Replace Word" },
     f = { "<cmd>lua require('spectre').open_file_search()<cr>", "Replace Buffer" },
+  },
+  ["<leader>m"] = {
+    name = "Mason",
+    m = { "<cmd>Mason<cr>", "Open Mason" },
+    u = { "<cmd>MasonUpdate<cr>", "Update all extensions" },
+    l = { "<cmd>MasonLog<cr>", "Log file" },
+    U = { "<cmd>MasonUninstallAll<cr>", "Uninstall all extensions" },
   }
 }
 
