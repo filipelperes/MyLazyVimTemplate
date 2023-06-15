@@ -24,6 +24,8 @@ return {
   { 'johnpapa/vscode-winteriscoming' },
   { 'marko-cerovac/material.nvim' },
   { 'projekt0n/github-nvim-theme' },
+  { 'hzchirs/vim-material' },
+  { 'kaicataldo/material.vim' },
   { 
     "norcalli/nvim-colorizer.lua",
       config = function()
