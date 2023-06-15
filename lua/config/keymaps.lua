@@ -38,7 +38,7 @@ local mappings = {
   },
   ["<leader>T"] = {
     name = "Treesitter",
-    i = { ":TSConfigInfo<cr>", "Info" },
+    i = { "<cmd>TSConfigInfo<cr>", "Info" },
     h = { "<cmd>TSHighlightCapturesUnderCursor<cr>", "Highlight" },
     p = { "<cmd>TSPlaygroundToggle<cr>", "Playground" }
   },
